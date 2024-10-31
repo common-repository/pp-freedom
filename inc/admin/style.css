@@ -1,0 +1,17 @@
+.tab-content{
+	padding:21px;
+}
+.sub-tab-content{
+	padding:21px;
+}
+.ppfrdm_fld_sel{
+	min-width:200px;
+}
+.ppfrdm-wid-del-btn{
+	color:red !important;
+	border-color:red !important;
+	float:right;
+}
+.ppfrdm_warning_txt{
+	color:red !important;
+}

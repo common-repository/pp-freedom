@@ -1,0 +1,440 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-09-17 13:06+0530\n"
+"PO-Revision-Date: 2021-09-17 13:06+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ppfrdm-admin-actions.php:12
+msgid "Widget Successfully Added!"
+msgstr ""
+
+#: ppfrdm-admin-actions.php:14
+msgid "Widget Successfully Updated!"
+msgstr ""
+
+#: ppfrdm-admin-actions.php:16
+msgid "Widget Successfully Deleted!"
+msgstr ""
+
+#: ppfrdm-admin-actions.php:62 ppfrdm-admin-actions.php:106
+msgid "Invalid Title!"
+msgstr ""
+
+#: ppfrdm-admin-actions.php:64
+msgid "Invalid Private Key!"
+msgstr ""
+
+#: ppfrdm-admin-actions.php:102
+msgid "Invalid Domain!"
+msgstr ""
+
+#: ppfrdm-admin-actions.php:104
+msgid "Select Widget!"
+msgstr ""
+
+#: ppfrdm-theming.php:5
+msgid "Default Theme 1"
+msgstr ""
+
+#: ppfrdm-theming.php:7
+msgid "Default Theme 2"
+msgstr ""
+
+#: views/admin/ppfrdm_dashboard.php:3 views/admin/ppfrdm_dashboard.php:16
+msgid "Publish Section"
+msgstr ""
+
+#: views/admin/ppfrdm_dashboard.php:4 views/admin/ppfrdm_dashboard.php:17
+msgid "Pull Section"
+msgstr ""
+
+#: views/admin/ppfrdm_dashboard.php:14 views/public/ppfrdm-view-public.php:23
+msgid "Welcome to PP Freedom"
+msgstr ""
+
+#: views/admin/ppfrdm_dashboard.php:15
+msgid ""
+"Are you looking to connect your multiple WordPress sites or do you want to "
+"show your WordPress content like blog posts, custom blog posts, and "
+"woocommerce products in other WordPress or non-WordPress sites? You are at "
+"the right place, and PP Freedom is the one and only best solution for you. "
+"<br> By using PP Freedom you can easily show WordPress content like blog "
+"posts, custom blog posts, or woocommerce products in this site or any other "
+"WordPress or non-wordpress sites, in the form of widgets with all "
+"customizable options, and you can create unlimited private or public widgets."
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:1
+msgid "Publish Widgets"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:2
+msgid ""
+"Here you can create n number of widgets based on Post Type (Ex. Post, Custom "
+"Post, Product), Taxonomy, Term (Category) and lots of other options."
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:5
+#: views/admin/ppfrdm_pull_section.php:5
+msgid "Widget "
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:7
+#: views/admin/ppfrdm_pull_section.php:7
+msgid "Add Widget "
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:9
+#: views/admin/ppfrdm_pull_section.php:9
+msgid "Add Widget 1"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:30
+#: views/admin/ppfrdm_publish_section.php:274
+msgid "Type"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:34
+#: views/admin/ppfrdm_publish_section.php:278
+msgid "Global"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:35
+#: views/admin/ppfrdm_publish_section.php:279
+msgid "Local"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:41
+#: views/admin/ppfrdm_publish_section.php:285
+msgid "Scope"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:45
+#: views/admin/ppfrdm_publish_section.php:289
+msgid "Private"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:46
+#: views/admin/ppfrdm_publish_section.php:290
+msgid "Public"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:52
+#: views/admin/ppfrdm_publish_section.php:296
+msgid "Private Key"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:56
+#: views/admin/ppfrdm_publish_section.php:300
+msgid "Generate"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:57
+#: views/admin/ppfrdm_publish_section.php:301
+msgid "Use this private key while pulling this widget."
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:62
+#: views/admin/ppfrdm_publish_section.php:306
+msgid "Post Type"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:74
+#: views/admin/ppfrdm_publish_section.php:318
+msgid "Taxonomy"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:84
+#: views/admin/ppfrdm_publish_section.php:331
+msgid "Term"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:94
+#: views/admin/ppfrdm_publish_section.php:341
+msgid "Sorting"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:98
+#: views/admin/ppfrdm_publish_section.php:345
+msgid "Latest"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:99
+#: views/admin/ppfrdm_publish_section.php:346
+msgid "Beginning"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:105
+#: views/admin/ppfrdm_publish_section.php:352
+msgid "No. of Posts"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:109
+#: views/admin/ppfrdm_publish_section.php:356
+msgid "Use 0 to access all posts."
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:114
+#: views/admin/ppfrdm_publish_section.php:361
+msgid "No. of Words"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:118
+#: views/admin/ppfrdm_publish_section.php:365
+msgid "Use 0 to access full content. (This will work approximately)"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:123
+#: views/admin/ppfrdm_publish_section.php:370
+msgid "Direct Link"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:127
+#: views/admin/ppfrdm_publish_section.php:140
+#: views/admin/ppfrdm_publish_section.php:152
+#: views/admin/ppfrdm_publish_section.php:374
+#: views/admin/ppfrdm_publish_section.php:387
+#: views/admin/ppfrdm_publish_section.php:399
+msgid "Disable"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:128
+#: views/admin/ppfrdm_publish_section.php:139
+#: views/admin/ppfrdm_publish_section.php:151
+#: views/admin/ppfrdm_publish_section.php:375
+#: views/admin/ppfrdm_publish_section.php:386
+#: views/admin/ppfrdm_publish_section.php:398
+msgid "Enable"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:130
+#: views/admin/ppfrdm_publish_section.php:377
+msgid ""
+"Disable this to show the popup with content or Enable this to direct the "
+"link to the source."
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:135
+#: views/admin/ppfrdm_publish_section.php:382
+msgid "Links in the content"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:142
+#: views/admin/ppfrdm_publish_section.php:389
+msgid "Use this to show or hide the links in the content. "
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:147
+#: views/admin/ppfrdm_publish_section.php:394
+msgid "Source Link"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:154
+#: views/admin/ppfrdm_publish_section.php:401
+msgid "Use this to show or hide the source link in the content."
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:159
+#: views/admin/ppfrdm_publish_section.php:406
+msgid "Appearance"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:160
+#: views/admin/ppfrdm_publish_section.php:407
+msgid ""
+"Only appearance options can be changed by the users while pulling this "
+"widget."
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:165
+#: views/admin/ppfrdm_publish_section.php:412
+#: views/admin/ppfrdm_pull_section.php:54
+#: views/admin/ppfrdm_pull_section.php:155
+msgid "Theme"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:171
+#: views/admin/ppfrdm_publish_section.php:418
+#: views/admin/ppfrdm_pull_section.php:60
+#: views/admin/ppfrdm_pull_section.php:161
+msgid "Theme name will descript the design of the widget."
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:176
+#: views/admin/ppfrdm_publish_section.php:423
+#: views/admin/ppfrdm_pull_section.php:65
+#: views/admin/ppfrdm_pull_section.php:166
+msgid "Background Color"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:184
+#: views/admin/ppfrdm_publish_section.php:431
+#: views/admin/ppfrdm_pull_section.php:73
+#: views/admin/ppfrdm_pull_section.php:174
+msgid "Primary Color"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:192
+#: views/admin/ppfrdm_publish_section.php:439
+#: views/admin/ppfrdm_pull_section.php:81
+#: views/admin/ppfrdm_pull_section.php:182
+msgid "Secondary Color"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:200
+#: views/admin/ppfrdm_publish_section.php:447
+#: views/admin/ppfrdm_pull_section.php:89
+#: views/admin/ppfrdm_pull_section.php:190
+msgid "Tertiary Color"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:208
+#: views/admin/ppfrdm_publish_section.php:455
+#: views/admin/ppfrdm_pull_section.php:97
+#: views/admin/ppfrdm_pull_section.php:198
+msgid "Widget Title"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:217
+#: views/admin/ppfrdm_pull_section.php:106
+msgid "Save Changes"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:218
+#: views/admin/ppfrdm_pull_section.php:107
+msgid "Delete This Widget"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:221
+msgid "Local Publish"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:222
+msgid "Use this shortcode in this site:"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:231
+msgid "Global options wont work in localhost."
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:235
+msgid "Global Publish ( PP Freedom )"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:236
+#: views/public/ppfrdm-view-public.php:36
+msgid "Use this shortcode in another wordpress site with PP Freedom installed:"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:243
+msgid "Global Publish ( Anywhere )"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:244
+msgid ""
+"You can use the below code options to pull this widget anywhere using PHP "
+"Curl code or REST API."
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:245
+msgid "Load jQuery wherever you are using this code to work."
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:247
+msgid "REST API"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:248
+#: views/public/ppfrdm-view-public.php:40
+msgid "Use this REST API URL to get this widget data in JSON format:"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:322
+#: views/admin/ppfrdm_publish_section.php:335
+msgid "All"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:464
+#: views/admin/ppfrdm_pull_section.php:207
+msgid "Submit"
+msgstr ""
+
+#: views/admin/ppfrdm_publish_section.php:467
+msgid ""
+"After adding the widget you will get shortcodes and other options to use "
+"this widget."
+msgstr ""
+
+#: views/admin/ppfrdm_pull_section.php:1
+#: views/admin/ppfrdm_pull_section.php:110
+msgid "Pull Options"
+msgstr ""
+
+#: views/admin/ppfrdm_pull_section.php:2
+msgid ""
+"Here you can pull n number of public or private widgets to use on this site."
+msgstr ""
+
+#: views/admin/ppfrdm_pull_section.php:30
+#: views/admin/ppfrdm_pull_section.php:132
+msgid "Domain"
+msgstr ""
+
+#: views/admin/ppfrdm_pull_section.php:34
+#: views/admin/ppfrdm_pull_section.php:136
+msgid "Add domain with protocol (http/https)."
+msgstr ""
+
+#: views/admin/ppfrdm_pull_section.php:36
+#: views/admin/ppfrdm_pull_section.php:138
+msgid "Add private key to get private widgets."
+msgstr ""
+
+#: views/admin/ppfrdm_pull_section.php:38
+#: views/admin/ppfrdm_pull_section.php:140
+msgid "Pull Widgets"
+msgstr ""
+
+#: views/admin/ppfrdm_pull_section.php:44
+#: views/admin/ppfrdm_pull_section.php:145
+msgid "Select Widget"
+msgstr ""
+
+#: views/admin/ppfrdm_pull_section.php:111
+msgid "Use this shortcode for these custom options:"
+msgstr ""
+
+#: views/admin/ppfrdm_pull_section.php:112
+msgid "Use this shortcode for default options from the publisher:"
+msgstr ""
+
+#: views/admin/ppfrdm_pull_section.php:149
+msgid "Click Pull Widgets"
+msgstr ""
+
+#: views/admin/ppfrdm_pull_section.php:210
+msgid "After adding the widget you will get shortcodes to use this widget."
+msgstr ""
+
+#: views/public/ppfrdm-view-public.php:6
+msgid "PP Freedom"
+msgstr ""
+
+#: views/public/ppfrdm-view-public.php:24
+msgid "Here you can find all the public widgets of this site."
+msgstr ""
+
+#: views/public/ppfrdm-view-public.php:49
+msgid "This site does not have any public widgets."
+msgstr ""
